@@ -1,0 +1,6 @@
+Created inventory-agent agent, ID: inventory-agent:1
+Created interior-designer agent, ID: interior-designer:1
+Created cora agent, ID: cora:1
+Created cart-manager agent, ID: cart-manager:1
+Created handoff-service agent, ID: handoff-service:1
+Created customer-loyalty agent, ID: customer-loyalty:1
